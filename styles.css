@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #1F1F1F;
+    color: white;
+}
+
+h4{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+canvas{
+    background-color: #1F1F1F;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+
+div{
+    padding: 10px;
+    background-color: rgb(19, 19, 19);
+    width: 400px;
+    height: fit-content
+}
+
+.Selector{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    background-color: #1F1F1F;
+    border: none;
+}
